@@ -1,4 +1,8 @@
 #define ll long long
+#include <vector>
+#include <algorithm>
+using namespace std;
+
 class Solution {
 public:
     int maxProductPath(vector<vector<int>>& grid) {
